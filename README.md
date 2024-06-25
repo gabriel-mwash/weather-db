@@ -20,5 +20,5 @@ database.
 
 I know its confusing..... That's why I have included this.... 
 <p align="center">
-<img height="800rem" src="https://github.com/gabriel-mwash/weather-db/assets/124787358/ef8daac8-b4bd-4bba-83b0-675c795e84a5">
+<img height="800rem" src="https://github.com/gabriel-mwash/weather-db/assets/124787358/42f94eab-86f1-4dbf-8351-64ba4f812104">
 </p>
